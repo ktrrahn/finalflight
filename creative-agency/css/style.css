@@ -972,6 +972,7 @@ header {
   height: 100%;
   margin-top: 2050px;
   margin-right: 200px;
+  margin-left: 200px;
   margin-bottom: 100px;
 }
 path:hover, circle:hover {
